@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "http://impala-website.vercel.app",
+        "destination": "https://impala-website.vercel.app",
+        "permanent": true
+      }
+    ]
+  }
+  
